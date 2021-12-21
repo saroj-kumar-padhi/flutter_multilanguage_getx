@@ -1,4 +1,4 @@
 // Arabic Translations
 const Map<String, String> arAE = {
-  'hello_title': 'مرحبًا بك في SnippetCoder',
+  'hello_title': 'مرحبا بكم في هذا المشروع',
 };
